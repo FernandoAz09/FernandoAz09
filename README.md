@@ -1,7 +1,6 @@
 # Fernando Azevedo :man_technologist:
 
 ![Github visitors](https://komarev.com/ghpvc/?username=fernandoaz09&color=7159c0&style=flat-square)
-![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FernandoAz09)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/azevedo-fernando/)](https://www.linkedin.com/in/azevedo-fernando/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fsazevedo09@gmail.com)](mailto:fsazevedo09@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5513988097224&text=Olá!)](https://api.whatsapp.com/send?phone=5513988097224&text=Olá!)
