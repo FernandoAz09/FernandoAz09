@@ -7,9 +7,10 @@
 
 ## Olá! :)
 
-Meu nome é Fernando Azevedo, formado em Análise e Desenvolvilmento de Sistemas e Desenvolvedor FullStack Jr.. 
+Meu nome é Fernando Azevedo, formado em Análise e Desenvolvilmento de Sistemas e Desenvolvedor FullStack Jr..
+Em busca de uma primeira experiência na área! Enquanto não chega meu {SIM} vou me aventurando no estudos e projetos!!
 
-- 🚀 Estudante do Bootcamp  LaunchBase da Rocketseat.
+- 🚀 Estudante dos Cursos da Rocketseat.
 - :purple_heart: Techs: JavaScript, TypeScript, HTML5, CSS3, Node.js, alguns frameworks e tudo mais que eu puder aprender!
 
 **Languages and Tools**  
