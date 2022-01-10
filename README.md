@@ -25,12 +25,8 @@ Em busca de uma primeira experiência na área! Enquanto não chega meu {SIM} vo
 
 
 **This week I spent my time on**
-<details>
+
   <summary>:zap: Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=fernandoaz09&&show_icons=true&title_color=03A87C&icon_color=03A87C&text_color=7159c0&bg_color=ffffff">
-</details>
-
-<details>
   <summary>:zap: Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoaz09&layout=compact&bg_color=ffffff&text_color=333333">
-</details>
