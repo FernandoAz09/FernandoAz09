@@ -7,7 +7,7 @@
 
 ## Olá! :)
 
-Meu nome é Fernando Azevedo, formado em Análise e Desenvolvilmento de Sistemas e Desenvolvedor FullStack Jr..
+Meu nome é Fernando, 30 anos, Casado, Formado em Análise e Desenvolvimento de Sistemas(12/2021), Desenvolvedor Front-End, possuo conhecimentos em JavaScript, HTML5, CSS3, Node.js e familiaridade em alguns Frameworks e Bibliotecas, como React.js e Bootstrap. 
 Em busca de uma primeira experiência na área! Enquanto não chega meu SIM vou me aventurando no estudos e projetos!!
 <br>
 <br>
