@@ -17,9 +17,6 @@ Meu nome é Fernando, 30 anos, Casado, Formado em Análise e Desenvolvimento de 
 
 - 🚀 Estudante dos Cursos da Rocketseat, Curso em Vídeo, Online Tutorials e alguns outros por aí.
 - :purple_heart: Techs: JavaScript, TypeScript, HTML5, CSS3, Node.js, ReactJS e tudo mais que eu puder aprender!
-
-
-
 <br>
 <br>
 <br>
