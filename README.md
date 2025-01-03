@@ -8,7 +8,7 @@
 
 ## Olá! :)
 
-Meu nome é Fernando, 32 anos, Casado, Formado em Análise e Desenvolvimento de Sistemas(12/2021), Desenvolvedor Front-End, possuo conhecimentos em JavaScript, HTML5, CSS3, Node.js e familiaridade em alguns Frameworks e Bibliotecas, como React.js e Bootstrap. 
+Meu nome é Fernando, 33 anos, Casado, Formado em Análise e Desenvolvimento de Sistemas(12/2021), Desenvolvedor Front-End, possuo conhecimentos em JavaScript, HTML5, CSS3, Node.js e familiaridade em alguns Frameworks e Bibliotecas, como React.js e Bootstrap. 
 
 <br>
 <br>
