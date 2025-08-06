@@ -28,7 +28,11 @@ Meu nome é Fernando, 33 anos, Casado, Formado em Análise e Desenvolvimento de 
   <br>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </div>
-
+ <div align="center">
+<a href="https://app.rocketseat.com.br/me/fernando-azevedo"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=fernando-azevedo&type=card" width="280" alt="Fernando dos Santos Azevedo's Rocket ID"/></a>
+ </div>
+ <br>
+  
  <div align="center">
   <img height='180em' src="https://github-readme-stats.vercel.app/api?username=fernandoaz09&theme=github_dark&show_icons=true">
  </div>
@@ -36,4 +40,4 @@ Meu nome é Fernando, 33 anos, Casado, Formado em Análise e Desenvolvimento de 
  <div align="center">
   <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoaz09&layout=compact&theme=github_dark">
  </div>  
- <a href="https://app.rocketseat.com.br/me/fernando-azevedo"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=fernando-azevedo&type=card" width="280" alt="Fernando dos Santos Azevedo's Rocket ID"/></a>
+ 
