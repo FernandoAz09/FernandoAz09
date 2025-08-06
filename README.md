@@ -12,7 +12,7 @@ Meu nome é Fernando, 33 anos, Casado, Formado em Análise e Desenvolvimento de 
 
 <br>
 <br>
-<h3> Front-end Developer at <a href="https://www.smarthint.co/">SmartHint</a></h3> 
+<h3> Coordenador de Front-end na <a href="https://www.smarthint.co/">SmartHint</a></h3> 
 <br>
 <br>
 
