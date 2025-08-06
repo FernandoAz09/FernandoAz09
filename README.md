@@ -35,9 +35,6 @@ Meu nome é Fernando, 33 anos, Casado, Formado em Análise e Desenvolvimento de 
   
  <div align="center">
   <img height='180em' src="https://github-readme-stats.vercel.app/api?username=fernandoaz09&theme=github_dark&show_icons=true">
- </div>
- <br>
- <div align="center">
   <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoaz09&layout=compact&theme=github_dark">
  </div>  
  
