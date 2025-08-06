@@ -36,3 +36,4 @@ Meu nome é Fernando, 33 anos, Casado, Formado em Análise e Desenvolvimento de 
  <div align="center">
   <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoaz09&layout=compact&theme=github_dark">
  </div>  
+ <a href="https://app.rocketseat.com.br/me/fernando-azevedo"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=fernando-azevedo&type=card" width="280" alt="Fernando dos Santos Azevedo's Rocket ID"/></a>
