@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** pela Estácio de Ribeirão Preto e atuo com sólida experiência na área de desenvolvimento Front-End, com destaque para minha trajetória na **SmartHint**.
+Sou formado em **Análise e Desenvolvimento de Sistemas** pela Estácio de Ribeirão Preto e atuo com sólida experiência na área de desenvolvimento Front-End, com destaque para minha trajetória na <a href="https://www.smarthint.co">**SmartHint**</a>.
 
 Iniciei como **Desenvolvedor Front-End**, onde aprimorei habilidades técnicas em **HTML5**, **CSS3**, **JavaScript**, **jQuery**, além de realizar integrações com **APIs REST** e oferecer suporte técnico a outros times, auxiliando na interpretação e consumo de endpoints da nossa plataforma.
 
