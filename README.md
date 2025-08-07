@@ -8,13 +8,18 @@
 
 ## Olá! :)
 
-Meu nome é Fernando, 33 anos, Casado, Formado em Análise e Desenvolvimento de Sistemas(12/2021), Desenvolvedor Front-End, possuo conhecimentos em JavaScript, HTML5, CSS3, Node.js e familiaridade em alguns Frameworks e Bibliotecas, como React.js e Bootstrap. 
+## Sobre mim
 
-<br>
-<br>
-<h3> Coordenador de Front-end na <a href="https://www.smarthint.co/">SmartHint</a></h3> 
-<br>
-<br>
+Sou formado em **Análise e Desenvolvimento de Sistemas** pela Estácio de Ribeirão Preto e atuo com sólida experiência na área de desenvolvimento Front-End, com destaque para minha trajetória na **SmartHint**.
+
+Iniciei como **Desenvolvedor Front-End**, onde aprimorei habilidades técnicas em **HTML5**, **CSS3**, **JavaScript**, **jQuery**, além de realizar integrações com **APIs REST** e oferecer suporte técnico a outros times, auxiliando na interpretação e consumo de endpoints da nossa plataforma.
+
+Atualmente, atuo como **Coordenador do time de Front-End**, liderando iniciativas de melhoria contínua no código, padronização de práticas e evolução técnica da equipe. Tenho papel ativo na definição de estratégias, revisão de entregas, acompanhamento de métricas e desenvolvimento de pessoas — com foco especial em promover a diversidade e o crescimento individual dentro do time.
+
+Tenho amplo domínio em **React**, incluindo o uso avançado de **Hooks**, **Redux** e **Context API** para gerenciamento de estado. Meu foco está em proporcionar experiências de usuário otimizadas, com atenção especial ao **design responsivo** e **acessibilidade**.
+
+Sou comprometido com a **qualidade do código**, adoção de boas práticas de versionamento com **Git/GitHub** e colaboração eficiente em ambientes ágeis.
+
 
 - 🚀 Estudante dos Cursos da Rocketseat, Curso em Vídeo, Online Tutorials e alguns outros por aí.
 - :purple_heart: Techs: JavaScript, TypeScript, HTML5, CSS3, Node.js, React e tudo mais que eu puder aprender!
